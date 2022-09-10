@@ -3,7 +3,7 @@
 
 import sys
 sys.path.append('../../Experiments/SHREC17/')
-from load_shrec.py import fix_dataset, Shrec17Dataset
+from load_shrec import fix_dataset, Shrec17Dataset
 
 
 if len(sys.argv) > 4:
