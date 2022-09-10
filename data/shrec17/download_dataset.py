@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import sys
-sys.path.append('../../Experiments/SHREC17/')
+sys.path.append('../../experiments/SHREC17/')
 from load_shrec import fix_dataset, Shrec17Dataset
 
 
